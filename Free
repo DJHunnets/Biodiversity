@@ -1,0 +1,39 @@
+# Define the full GitHub repository structure with multiple files
+repo_files = {
+    "README.md": """
+# BI-GDP & BiosphereChain
+
+**Author:** Gaudhi De Sedas (@hunnets)  
+**License:** MIT
+
+This repository hosts the open-source framework for the BiosphereChain blockchain and the BI-GDP model aligning economics with biodiversity and ecosystem intelligence.
+
+## Contents
+- BI-GDP Framework
+- BiosphereChain Blockchain Description
+- Example Chain Data Format
+- License (MIT)
+
+""",
+
+    "LICENSE": """
+MIT License
+
+Copyright (c) 2025 Gaudhi De Sedas
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions...
+
+(Full MIT license text continues)
+""",
+
+    "docs/BiosphereChain_OpenSource_Documentation.md": biosphere_blockchain_doc,
+
+    "data/example_chain_block.json": """
+{
+  "block_id": "00001",
+  "timestamp
