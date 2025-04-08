@@ -1,5 +1,8 @@
 # Biodiversity
 Biodiversity aligned Economic Models
+"Earth is a living biospheric spacecraft navigating through space and time. Its long-term survival—and the sustained thriving of human life—depends on embracing biodiversity diversification as the primary regulatory mechanism for growth. Rather than controlling nature, humanity must synchronize its development with the regenerative logic of life's complexity. This is the evolutionary directive embedded in our planetary vessel."
+
+— De Sedas, G. (@hunnets), BI-GDP Framework, 2025.
 
 # BI-GDP: Aligning Intelligence with Biodiversity
 
