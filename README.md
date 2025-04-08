@@ -48,9 +48,7 @@ Stakeholders are invited to collaborate on pilot programs using the BI-GDP model
 - Strong correlation between linguistic and biological diversity.
 
 ## Publications
-- [ResearchGate](https://www.researchgate.net/publication/123456789_BI-GDP_Aligning_Intelligence_with_Biodiversity)
-- [Medium](https://medium.com/@hunnets/bi-gdp-aligning-intelligence-with-biodiversity-abcdef123456)
-- [IPFS](https://ipfs.io/ipfs/QmExampleHash)
+-See References
 
 ## Citation
 ```
