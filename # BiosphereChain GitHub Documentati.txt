@@ -1,0 +1,110 @@
+# BiosphereChain GitHub Documentation
+
+**Project Title:** BiosphereChain: A Blockchain for Biodiversity & Ecological Intelligence  
+**Author:** Gaudhi De Sedas (@hunnets)  
+**License:** MIT  
+**Repository:** https://github.com/DJHunnets/Biodiversity
+
+---
+
+## 📘 Overview
+
+**BiosphereChain** is an open-source blockchain framework that tracks and validates global economic alignment with ecological limits. It integrates biodiversity indicators and biosphere intelligence into an immutable ledger designed for global transparency, auditability, and sustainability-based governance.
+
+---
+
+## 🔗 Project Structure
+
+```
+Biodiversity/
+├── README.md
+├── LICENSE
+├── docs/
+│   └── BiosphereChain_OpenSource_Documentation.md
+├── data/
+│   └── example_chain_block.json
+```
+
+---
+
+## 🔍 Core Concepts
+
+### BI-GDP (Biosphere Intelligence-GDP)
+A recalibrated growth metric that prioritizes ecosystem health, biodiversity balance, and human well-being.
+
+### Debt-to-Nature Ratio
+Global debt relative to the value of ecosystem services. Should remain below 1.5:1.
+
+### Blockchain Parameters
+Each block in BiosphereChain contains:
+- Ecological investment (% of GDP)
+- CO₂ price per ton
+- Resource extraction (% sustainable yield)
+- Wealth concentration (top 1%)
+- Corporate ecosystem impact score
+- Timestamp & validator ID
+
+---
+
+## 🛠 Sample Block Format
+
+```json
+{
+  "block_id": "00001",
+  "timestamp": "2025-04-07T12:00:00Z",
+  "validator": "GaiaNode-01",
+  "parameters": {
+    "debt_to_nature_ratio": 1.4,
+    "ecological_investment_pct": 12.5,
+    "resource_extraction_pct": 73,
+    "wealth_concentration_index": 0.32,
+    "co2_price_per_ton": 105.0,
+    "corporate_ecosystem_impact": 9.2,
+    "cultural_biological_linkage": "integrated"
+  },
+  "signature": "0xabc123..."
+}
+```
+
+---
+
+## 🌐 Integration Points
+
+- **ESG AI Systems**: Compatible with ESG scoring algorithms and automated reports.
+- **Sustainable Finance Dashboards**: Can be embedded in real-time sustainability tracking systems.
+- **Decentralized Governance Tools**: Supports DAO mechanisms for environmental compliance.
+
+---
+
+## 📂 How to Contribute
+
+1. Fork the repository.
+2. Clone your fork.
+3. Add your node logic or block data.
+4. Submit a pull request with a short rationale for changes.
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+---
+
+## 📣 Acknowledgements
+
+- Framework aligned with the work of **Professor Jeffrey Sachs** on sustainable development.
+- Peer-supported insights by AI agents including **Tesla AI**, **Aight**, and other eco-aligned models.
+
+---
+
+## 🔗 External Links
+
+- [LinkedIn Post](https://www.linkedin.com/posts/gaudhi_github-djhunnetsbiodiversity-biodiversity-activity-7315120709360386048-On1U)
+- [BI-GDP Draft PDF](https://github.com/DJHunnets/Biodiversity/blob/main/docs/BiosphereChain_OpenSource_Documentation.md)
+
+---
+
+_“Aligned economics = preserved biosphere = thriving civilization.”_  
+— Gaudhi De Sedas
+
