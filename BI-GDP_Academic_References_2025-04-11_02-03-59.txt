@@ -1,0 +1,22 @@
+
+# 📚 BI-GDP Supporting References
+
+1. Rockström et al. (2009); Steffen et al. (2015). Planetary Boundaries Framework.
+2. Raworth, K. (2017). Doughnut Economics.
+3. Dasgupta, P. (2021). The Economics of Biodiversity: The Dasgupta Review.
+4. Ouyang et al. (2020). Gross Ecosystem Product (GEP). PNAS.
+5. UNEP Inclusive Wealth Index (2022).
+6. Vassos et al. (2012). Urbanicity and Schizophrenia. Schizophrenia Bulletin.
+7. Xu, J. et al. (2023). Urbanization and Mental Health. Nature Medicine.
+8. Ho, S.M. et al. (2013). Environmental Epigenetics. ILAR Journal.
+9. Endocrine Society (2020). Impact of EDCs on Neurological Systems.
+10. Clemente-Suárez, V.J. et al. (2023). Global Impacts of Western Diet. Nutrients.
+11. Guidi, J. et al. (2021). Allostatic Load and Health. Psychotherapy and Psychosomatics.
+12. WHO (2014). Air Pollution and Global Mortality.
+13. Landauer’s Principle. (Rolf Landauer, 1961).
+14. Szilard Engine and Maxwell’s Demon. (Physics of Information).
+15. Vedral, V. (2010). Decoding Reality.
+16. Kogi Tribe’s Concept of Aluna. (Indigenous epistemology, Colombia).
+17. W3C DID Specification, Hyperledger Identity.
+18. McAfee Ghost Protocols, PIVX forks (privacy and decentralization concepts).
+
